@@ -4,7 +4,7 @@
  */
 {
     "$schema": "node_modules/wrangler/config-schema.json",
-    "name": "navihive",
+    "name": "mynavi",
     "main": "worker/index.ts",
     "compatibility_date": "2025-04-05",
     "assets": {
@@ -23,8 +23,8 @@
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "linuxdo"
+        "AUTH_USERNAME": "dzxrly",
+        "AUTH_PASSWORD": "Navi*139692",
+        "AUTH_SECRET": "Navi*139692"
     }
 }
